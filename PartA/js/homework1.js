@@ -18,7 +18,7 @@
  		// It should pop up an 'alert' box that says "Hello"!
  		alert("Hi! (This is the first of three messages)");
  		//then it will pop up an alert that says "Welcome to CSCI E-3!"
- 		alrt("Welcome to CSCI E-3! (This is the second of three messages)");
+ 		alert("Welcome to CSCI E-3! (This is the second of three messages)");
  		//then it will pop up one more alert to say "You did it!"
  		alert("You did it! (This is the third of three messages)");
  }
